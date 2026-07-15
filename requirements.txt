@@ -1,0 +1,5 @@
+requests
+mouse
+win32api
+psutil
+pyautogui
